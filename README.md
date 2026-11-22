@@ -16,7 +16,7 @@
 
 | 仓库 | 内容 | 技术点 |
 |---|---|---|
-| [stn32f407_project](https://github.com/embed-liu/stn32f407_project) | 工业监控节点：双路步进电机、4 路模拟量采集与过流/过压保护、Modbus RTU 从站、LVGL 三页监控界面 | FreeRTOS 多任务、FreeModbus 移植、故障保护状态机、LVGL 显示移植 |
+| [stm32f407_project](https://github.com/embed-liu/stm32f407_project) | 工业监控节点：双路步进电机、4 路模拟量采集与过流/过压保护、Modbus RTU 从站、LVGL 三页监控界面 | FreeRTOS 多任务、FreeModbus 移植、故障保护状态机、LVGL 显示移植 |
 | [stm32project](https://github.com/embed-liu/stm32project) | STM32F103 多任务物联网终端：DHT11 采集、OLED、按键阈值、Flash 掉电保存、IWDG 心跳、ESP8266 + MQTT 上云 | 队列/事件组/互斥量实践、AT 时序调试、非易失参数存储 |
 | [stm32f407-modbus-rtu-motor-adc](https://github.com/embed-liu/stm32f407-modbus-rtu-motor-adc) | 裸机版 Modbus RTU 从站 + 步进电机 + ADC，作为工业监控节点的最小可跑版本 | Modbus 寄存器映射、RS485 方向切换 |
 
